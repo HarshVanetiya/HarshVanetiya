@@ -21,13 +21,15 @@ Full Stack Engineer in a forward-deployed role: I talk to clients to understand 
 
 ### Projects
 
-- **[Prism](https://github.com/HarshVanetiya/realtime-notes-app-nextwork.org)** ([live](https://notes.hvanetia.me)): real-time notes on Next.js and Supabase, with an offline edit queue in IndexedDB, full-text search in Postgres, share links and a companion Chrome extension.
-- **[Tetris](https://github.com/HarshVanetiya/tetris-game)** ([play](https://tetris-game-lac.vercel.app)): a complete Tetris in a single HTML file, with hold, ghost piece, 7-bag, Web Audio sound and touch controls.
-- **[React + Vite Chrome Extension Starter](https://github.com/HarshVanetiya/ChromeExtensionTemplateUsingVite):** Manifest V3 starter with React, TypeScript and Vite, wired up with a popup, content script and background worker.
-- **[Tech Studio](https://github.com/HarshVanetiya/tech-studio)** ([live](https://tech-studio-iota.vercel.app)): agency marketing site with a rate-limited contact form built on Next.js Server Actions and Resend.
+- **[Real-Time Notes](https://github.com/HarshVanetiya/realtime-notes-app-nextwork.org)** ([live](https://notes.hvanetia.me)): collaborative notes workspace where edits sync across every open session as you type. Next.js, Supabase Realtime, BlockNote, TypeScript.
+- **[STATIC](https://github.com/HarshVanetiya/shooter-game)** ([play](https://shooter-game-beta.vercel.app)): top-down stealth shooter with an eight-mission spy campaign, branching story and a boss that adapts to how you play. Enemy AI uses ray-cast vision, pathfinding and sound propagation. JavaScript, Canvas 2D, Web Audio API.
+- **[TradeDojo](https://github.com/HarshVanetiya/trade-dojo):** MCX gold and silver trading simulator on live futures prices over WebSockets, with an order engine and per-trade reviews. React, Express, PostgreSQL, PWA.
+- **[Dungeon Drill](https://github.com/HarshVanetiya/dungeons-and-warriors):** 1v1 online dice duel with Socket.IO matchmaking, an Elo leaderboard and a unit-tested rules engine shared by client and server. Next.js, Socket.IO, Prisma, PixiJS.
+
+Smaller things: a [Tetris](https://github.com/HarshVanetiya/tetris-game) in a single HTML file ([play](https://tetris-game-lac.vercel.app)) and a [React + Vite Chrome extension starter](https://github.com/HarshVanetiya/ChromeExtensionTemplateUsingVite) (Manifest V3).
 
 ### Elsewhere
 
 [hvanetia.me](https://hvanetia.me) · [LinkedIn](https://linkedin.com/in/harsh-vanetiya/) · [hvanetiya@gmail.com](mailto:hvanetiya@gmail.com)
 
-Currently doing a Master of Computer Applications at IIT Patna. Open to roles: remote, hybrid or relocation.
+Currently doing a Master of Computer Applications at IIT Patna. Open to full stack roles: remote, hybrid or relocation.
