@@ -21,7 +21,7 @@ Full Stack Engineer in a forward-deployed role: I talk to clients to understand 
 
 ### Projects
 
-- **[Real-Time Notes](https://github.com/HarshVanetiya/realtime-notes-app-nextwork.org)** ([live](https://notes.hvanetia.me)): collaborative notes workspace where edits sync across every open session as you type. Next.js, Supabase Realtime, BlockNote, TypeScript.
+- **[Real-Time Notes](https://github.com/HarshVanetiya/realtime-notes-app-nextwork.org)** ([live](https://notes.hvanetia.me)): notes app where edits sync live across your tabs and devices, with an offline edit queue, Postgres full-text search, share links and a companion Chrome extension. Next.js, Supabase Realtime, BlockNote, TypeScript.
 - **[STATIC](https://github.com/HarshVanetiya/shooter-game)** ([play](https://shooter-game-beta.vercel.app)): top-down stealth shooter with an eight-mission spy campaign, branching story and a boss that adapts to how you play. Enemy AI uses ray-cast vision, pathfinding and sound propagation. JavaScript, Canvas 2D, Web Audio API.
 - **[TradeDojo](https://github.com/HarshVanetiya/trade-dojo):** MCX gold and silver trading simulator on live futures prices over WebSockets, with an order engine and per-trade reviews. React, Express, PostgreSQL, PWA.
 - **[Dungeon Drill](https://github.com/HarshVanetiya/dungeons-and-warriors):** 1v1 online dice duel with Socket.IO matchmaking, an Elo leaderboard and a unit-tested rules engine shared by client and server. Next.js, Socket.IO, Prisma, PixiJS.
